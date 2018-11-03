@@ -1,0 +1,9 @@
+.vscode
+.venv
+*.pyc
+*.retry
+migrations
+.qiniu_pythonsdk_hostscache.json
+*.yml
+.DS_Store
+.mypy_cache/
